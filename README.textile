@@ -10,6 +10,14 @@ Welcome to Blueprint! This is a CSS framework designed to cut down on your CSS d
 * Powerful scripts for customization
 * Absolutely no bloat!
 
+h2. SilkSprite plugin included!
+
+My fork of this project adds in the SilkSprite plugin, mostly so I don't have to keep downloading both packages and integrating
+them every time I want to build an app on blueprint with silk icons as sprites.  :)
+
+See Don's website for instructions on how to use the SilkSprites...
+* *Don Albrecht's Silksprite plugin*: "http://www.ajaxbestiary.com/Labs/SilkSprite/":http://www.ajaxbestiary.com/Labs/SilkSprite/
+
 h2. Project Info
 
 * *Web*: "http://blueprintcss.org":http://blueprintcss.org
